@@ -1,15 +1,5 @@
 # Practica 2
 
-## Material Practica 1 (continuación sesión anterior) 
-
-2. Estadística descriptiva: 
-
-- PDFs: [diapos](https://github.com/alejandro-isglobal/alejandro-isglobal.github.io/blob/master/slides/practica2.pdf)
-
-- Datos: [air.txt](air.txt)
-
-- Videos: [Video 1](https://youtu.be/wuRchCaCBBs), [Video 2](https://youtu.be/_3kT7o31u4I), [Video 3](https://youtu.be/oujlmfr67FA)
-
 ## Material Practica 2 
 
 3. Regresión lineal
